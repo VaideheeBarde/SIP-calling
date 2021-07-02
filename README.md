@@ -5,7 +5,7 @@ Calling using SIP and X-lite Softphone
 
 2.) Requirements -
 X-lite Softphone
-Asterisk Win 32 on Windows OS (Installation was very smooth on Windows)
+Asterisk Win 32 on Windows OS (Installation was very smooth on Windows).
 
 Client connection takes place by connecting all the clients to the adhoc network and developing a python code to implement the client side application with basic SIP functionalities in  4 phases. We just replicated various requests and  responses associated with various scenarios in SIP.
 4 phases of code implementation:
