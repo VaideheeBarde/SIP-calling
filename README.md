@@ -1,8 +1,12 @@
 # SIP-calling
 Calling using SIP and X-lite Softphone
 
-The objective of this project is to learn the implementation of VOIP using SIP connections through hands on experiment on adhoc networks. The learning process is carried out by utilizing a server and a few VOIP users as clients. 
-Initially, we created a proxy server by installing the Asterisk Win 32 software on our Windows laptop.
+1.) Goal - The objective of this project is to learn the implementation of VOIP using SIP connections through hands on experiment on adhoc networks.
+
+2.) Requirements -
+X-lite Softphone
+Asterisk Win 32 on Windows OS (Installation was very smooth on Windows)
+
 Client connection takes place by connecting all the clients to the adhoc network and developing a python code to implement the client side application with basic SIP functionalities in  4 phases. We just replicated various requests and  responses associated with various scenarios in SIP.
 4 phases of code implementation:
 Call establishment
