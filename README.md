@@ -6,8 +6,7 @@ Calling using SIP and X-lite Softphone
 2.) Technologies used -
 - X-lite Softphone
 - Asterisk Win 32 on Windows OS (Installation was very smooth on Windows)
-- Generation of Adhoc network using Python - connect clients to this network
-
+- Generation of Adhoc network using Python for client connection and call instantiation
 3.) Process flow -
 Basic SIP functionality is implemented in 4 phases. The requests and responses associated with various scenarios in SIP.
 
